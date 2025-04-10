@@ -1,1 +1,1 @@
-Podgen: Ai Podcast Generator
+Podgen
