@@ -1,1 +1,1 @@
-Podgen podcast generator
+Podgen podcast
